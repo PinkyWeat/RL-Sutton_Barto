@@ -3,7 +3,7 @@
 ## 10 Armed Bandit
 Exercise is aimed at demonstrating the difficulties faced by sample-average methods for nonstationary problems.
 
-![exercise2.5](visual_aid/10_armed.png)
+![exercise2.5](../visual_aid/10_armed.png)
 
 Plot shown above, reflects exactly as expected the behavior of both methods:
 
